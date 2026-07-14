@@ -1,69 +1,218 @@
-site_name: Michael Jackson Ndueso | Engineering Documentation
-site_url: https://jevmis.github.io/docs/
+site_name: Michael J. Ndueso
+site_description: Senior Quality Assurance Engineer | SDET | Test Automation | API Testing | Performance Testing | Security Testing | CI/CD
+site_author: Michael J. Ndueso
+site_url: https://michaeljndueso.is-a.dev
+
+repo_url: https://github.com/Jevmis/docs
+repo_name: Jevmis/docs
+edit_uri: edit/main/docs/
+
+copyright: Copyright © 2026 Michael J. Ndueso
 
 theme:
   name: material
-  language: en
+
+  # logo: assets/branding/logo.svg
+  favicon: assets/branding/favicon.png
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+
+    - scheme: default
+      primary: blue grey
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to Dark Mode
+
+    - scheme: slate
+      primary: blue grey
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to Light Mode
+
   features:
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
     - search.highlight
+    - search.share
+    - search.suggest
     - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.action.edit
 
 plugins:
   - search
+  - glightbox
+  - awesome-pages
+  - minify
+  - git-revision-date-localized
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - pymdownx.keys
+  - pymdownx.magiclink
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  generator: false
+
+  status:
+    new: Recently Added
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jevmis
+      name: GitHub
+
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/michaeljndueso
+      name: LinkedIn
+
+    - icon: fontawesome/brands/upwork
+      link: https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share
+      name: Upwork
+
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/jevmis
+      name: X
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:Michaeljndueso@outlook.com
+      name: Email
+
+  analytics:
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Helpful
+
+        - icon: material/thumb-down-outline
+          name: Needs Improvement
+
+extra_css:
+  - styles/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 nav:
-  - Home: index.md
+  - 🏠 Home: index.md
 
-  - About:
+  - 👤 About Me:
       - Overview: about/index.md
+      - Resume: about/resume.md
+      - Experience: about/experience.md
+      - Skills: about/skills.md
+      - Education: about/education.md
+      - Career Journey: about/journey.md
 
-  - QA Engineering:
+  - 💼 Portfolio:
+      - Overview: portfolio/index.md
+      - Featured Projects: portfolio/projects.md
+      - Automation Frameworks: portfolio/frameworks.md
+      - QA Case Studies: portfolio/case-studies.md
+      - Open Source: portfolio/open-source.md
+
+  - 🧪 Quality Assurance:
       - Overview: qa/index.md
       - Test Strategy: qa/test-strategy.md
       - Test Plans: qa/test-plans.md
+      - Templates: qa/templates.md
+      - Checklists: qa/checklists.md
       - Bug Management: qa/bug-management.md
 
-  - Automation:
+  - 🤖 Test Automation:
+      - Overview: automation/index.md
       - Cypress: automation/cypress.md
       - Playwright: automation/playwright.md
+      - Framework Architecture: automation/framework.md
+      - GitHub Actions: automation/github-actions.md
 
-  - API Testing:
+  - 🔌 API Testing:
+      - Overview: api/index.md
       - Postman: api/postman.md
-      - Swagger: api/swagger.md
+      - Swagger / OpenAPI: api/swagger.md
+      - Collections: api/collections.md
+      - Newman: api/newman.md
 
-  - Performance Testing:
+  - ⚡ Performance Testing:
       - Overview: performance/index.md
       - JMeter: performance/jmeter.md
+      - Lighthouse: performance/lighthouse.md
 
-  - Security:
+  - 🛡️ Security Testing:
       - Overview: security/index.md
-      - OWASP: security/owasp.md
+      - OWASP Top 10: security/owasp.md
+      - OWASP ZAP: security/zap.md
+      - Security Checklists: security/checklists.md
 
-  - DevOps:
-      - Overview: devops/index.md
-      - CI/CD: devops/cicd.md
-
-  - SQL:
+  - 🗄️ SQL Validation:
       - Overview: sql/index.md
+      - Validation Techniques: sql/validation.md
+      - SQL Queries: sql/queries.md
 
-  - Certifications:
-      - Certifications: certifications/index.md
+  - ☁️ DevOps:
+      - Overview: devops/index.md
+      - Docker: devops/docker.md
+      - CI/CD Pipelines: devops/cicd.md
+      - GitHub Actions: devops/github-actions.md
 
-  - Portfolio:
-      - Projects: portfolio/index.md
+  - 🏅 Certifications:
+      - Overview: certifications/index.md
+      - Professional Certifications: certifications/professional.md
+      - Learning Journey: certifications/journey.md
 
-  - Career:
-      - Career Journey: career/index.md
+  - 💼 Career:
+      - Overview: career/index.md
+      - Experience: career/experience.md
+      - Leadership: career/leadership.md
+      - Resume: career/resume.md
+      - Speaking: career/speaking.md
 
-  - Contact:
-      - Contact: contact/index.md
+  - 📝 Blog:
+      - Articles: blog/index.md
+
+  - 📬 Contact:
+      - Contact Me: contact/index.md
