@@ -8,7 +8,7 @@
 
 Over the past five years, I have worked as a Quality Assurance Engineer across public-sector and private-sector software projects, helping teams deliver reliable, secure, and high-quality applications.
 
-My experience spans the complete software testing lifecycle—from requirement analysis and test planning to automation, performance validation, release testing, and production verification.
+My experience spans the complete software testing lifecycle, from requirement analysis and test planning to automation, performance validation, release testing, and production verification.
 
 I have also led QA teams, introduced testing standards, improved documentation, and built reusable automation frameworks that increased testing efficiency and software quality.
 
