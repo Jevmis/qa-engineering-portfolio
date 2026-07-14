@@ -1,3 +1,15 @@
+<div align="center">
+    <img
+        src="assets/branding/profile.jpg"
+        width="240"
+        alt="Michael Jackson Ndueso"
+        style="
+            border-radius:50%;
+            border:5px solid white;
+            box-shadow:0 10px 30px rgba(0,0,0,.25);
+        ">
+</div>
+
 # Michael Jackson Ndueso
 
 ## Senior Quality Assurance Engineer • Test Automation Engineer • SDET
@@ -5,12 +17,6 @@
 > Building reliable software through **Quality Engineering**, **Test Automation**, **API Testing**, **Performance Testing**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
 ---
-
-## Professional Snapshot
-<img
-    src="assets/branding/profile.jpg"
-    alt="Michael Jackson Ndueso"
-    class="profile-photo">
     
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
 [Download Resume](about/resume.md){ .md-button }
