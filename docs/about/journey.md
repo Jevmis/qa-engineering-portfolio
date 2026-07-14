@@ -47,7 +47,7 @@ This led me to invest significant time in learning:
 
 I started building reusable automation frameworks that reduced repetitive manual work and improved regression testing coverage.
 
-Automation became more than just writing scripts—it became an opportunity to improve engineering workflows and help teams deliver software faster with greater confidence.
+Automation became more than just writing scripts, it became an opportunity to improve engineering workflows and help teams deliver software faster with greater confidence.
 
 ---
 
