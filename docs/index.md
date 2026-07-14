@@ -1,8 +1,12 @@
 # Michael Jackson Ndueso
 
-## Senior Quality Assurance Engineer • SDET • Test Automation Engineer
+## Senior Quality Assurance Engineer • Test Automation Engineer • SDET
 
-> Building reliable software through Quality Engineering, Automation, API Testing, Performance Testing, Security Testing and DevOps.
+> Building reliable software through **Quality Engineering**, **Test Automation**, **API Testing**, **Performance Testing**, **Security Testing**, **SQL Validation**, and **DevOps**.
+
+---
+
+![Profile](assets/branding/profile.jpg){ width="220" align="right" }
 
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
 [Download Resume](about/resume.md){ .md-button }
@@ -10,13 +14,55 @@
 
 ---
 
+## Welcome
+
+I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer passionate about delivering high-quality software through structured testing, automation, and engineering best practices.
+
+Over the years, I've worked on enterprise applications, fintech platforms, healthcare systems, and government solutions, helping teams ship reliable software with confidence.
+
+---
+
+## Professional Snapshot
+
+<div class="grid cards" markdown>
+
+- :material-timeline-check:
+
+    ## 5+ Years
+
+    Professional Quality Assurance Experience
+
+- :material-account-group:
+
+    ## Team Lead
+
+    Led QA teams and mentored engineers
+
+- :material-robot:
+
+    ## Automation
+
+    Cypress • Playwright • Selenium
+
+- :material-google-spreadsheet:
+
+    ## Reporting
+
+    Automated Google Sheets QA Dashboards
+
+</div>
+
+---
+
+## Explore My Portfolio
+
 <div class="grid cards" markdown>
 
 - :material-account-circle:
 
     ## About Me
 
-    Learn more about my background, experience, achievements and professional journey.
+    Learn more about my professional background, leadership experience and engineering journey.
 
     [Read More](about/index.md)
 
@@ -24,7 +70,7 @@
 
     ## Portfolio
 
-    Explore automation frameworks, QA projects, case studies and open-source contributions.
+    Explore real QA projects, automation frameworks, documentation and open-source work.
 
     [View Portfolio](portfolio/index.md)
 
@@ -32,15 +78,27 @@
 
     ## Quality Assurance
 
-    Functional Testing, Regression Testing, UAT, Test Planning, Test Strategy and Defect Management.
+    Functional Testing
 
-    [Explore QA](qa/index.md)
+    Regression Testing
+
+    UAT
+
+    Test Planning
+
+    Defect Management
+
+    [Explore](qa/index.md)
 
 - :material-robot:
 
     ## Test Automation
 
-    Cypress, Playwright, JavaScript and TypeScript Automation Frameworks.
+    Cypress
+
+    Playwright
+
+    Framework Architecture
 
     [Automation](automation/index.md)
 
@@ -48,7 +106,15 @@
 
     ## API Testing
 
-    REST APIs, Postman, Swagger, Newman and API Automation.
+    REST APIs
+
+    Swagger
+
+    Postman
+
+    Cypress
+
+    Playwright
 
     [API Testing](api/index.md)
 
@@ -56,7 +122,13 @@
 
     ## Performance Testing
 
-    Apache JMeter, Load Testing, Stress Testing and Performance Analysis.
+    Apache JMeter
+
+    Stress Testing
+
+    Load Testing
+
+    Lighthouse
 
     [Performance](performance/index.md)
 
@@ -64,7 +136,13 @@
 
     ## Security Testing
 
-    OWASP Top 10, OWASP ZAP, Security Validation and Vulnerability Assessment.
+    OWASP Top 10
+
+    OWASP ZAP
+
+    Vulnerability Assessment
+
+    Security Validation
 
     [Security](security/index.md)
 
@@ -72,7 +150,13 @@
 
     ## DevOps
 
-    GitHub Actions, CI/CD Pipelines, Docker and Continuous Testing.
+    GitHub Actions
+
+    Docker
+
+    CI/CD
+
+    Release Automation
 
     [DevOps](devops/index.md)
 
@@ -82,20 +166,22 @@
 
 # Professional Summary
 
-I am a **Senior Quality Assurance Engineer** with experience designing quality strategies, leading QA initiatives, and building scalable automation frameworks.
+I am a **Senior Quality Assurance Engineer** with over **5 years of experience** ensuring software quality across enterprise, fintech, healthcare, and government applications.
 
-My work spans:
+My expertise spans:
 
 - Manual Testing
 - Test Automation
 - API Testing
-- Performance Testing
+- Performance Engineering
 - Security Testing
-- SQL Validation
-- DevOps Integration
-- Release Quality
+- SQL Backend Validation
+- CI/CD Integration
+- QA Leadership
+- Google Sheets Automation
+- Agile Delivery
 
-I enjoy improving software quality while helping teams deliver faster with confidence.
+I enjoy building scalable automation frameworks, improving engineering processes, mentoring QA engineers, and helping organizations deliver reliable software with confidence.
 
 ---
 
@@ -103,95 +189,168 @@ I enjoy improving software quality while helping teams deliver faster with confi
 
 | Area | Technologies |
 |------|--------------|
-| Automation | Cypress, Playwright |
+| Test Automation | Cypress, Playwright |
 | Languages | JavaScript, TypeScript, SQL |
-| API Testing | Postman, Swagger, Newman |
-| Performance | Apache JMeter |
+| API Testing | Postman, Swagger, Cypress, Playwright |
+| Performance | Apache JMeter, Lighthouse |
 | Security | OWASP Top 10, OWASP ZAP |
-| Databases | SQL Server, MySQL |
-| CI/CD | GitHub Actions |
+| Databases | SQL Server, MySQL, PostgreSQL |
+| DevOps | GitHub Actions, Docker |
+| Reporting | Google Sheets Automation, Excel Dashboards |
+| Project Management | Jira |
 | Version Control | Git, GitHub |
 
 ---
 
-# Highlights
+# Career Highlights
 
-!!! success "Professional Experience"
+!!! success "Professional Achievements"
 
-    • 5+ Years in Software Quality Assurance
-
-    • QA Team Leadership
-
-    • Automation Framework Development
-
-    • API & Performance Testing
-
-    • Agile & Scrum Experience
+    - 5+ Years of Software Quality Assurance Experience
+    - QA Team Leadership Experience
+    - Built reusable Cypress Automation Frameworks
+    - Designed Automated Google Sheets QA Dashboards
+    - API Testing & Automation
+    - Performance Engineering using Apache JMeter
+    - Security Testing using OWASP ZAP
+    - SQL Backend Validation
+    - Agile & Scrum Delivery
+    - CI/CD Testing and Release Validation
 
 ---
 
 # Current Focus
 
-- Building scalable automation frameworks
-- API Automation
-- Performance Engineering
-- Security Testing
-- CI/CD Integration
-- AI-assisted Software Testing
-
----
-
-# Featured Skills
-
 <div class="grid cards" markdown>
 
-- :material-language-javascript:
+- :material-robot:
 
-    JavaScript
+    ## Automation Engineering
 
-- :material-language-typescript:
-
-    TypeScript
-
-- :simple-cypress:
-
-    Cypress
-
-- :material-play-circle:
-
-    Playwright
+    Building scalable automation frameworks using Cypress and Playwright.
 
 - :material-api:
 
-    REST APIs
+    ## API Automation
 
-- :simple-postman:
-
-    Postman
-
-- :material-database:
-
-    SQL
+    REST API validation, automation and contract testing.
 
 - :material-speedometer:
 
-    JMeter
+    ## Performance Engineering
+
+    Load, stress and endurance testing using Apache JMeter.
 
 - :material-shield-check:
 
-    OWASP
+    ## Security
 
-- :material-github:
+    Security validation following OWASP best practices.
 
-    GitHub Actions
+- :material-google-spreadsheet:
+
+    ## QA Reporting
+
+    Automated dashboards using Google Sheets for test reporting and engineering metrics.
+
+- :material-cloud-upload:
+
+    ## DevOps
+
+    Continuous Integration, GitHub Actions and Release Quality.
 
 </div>
 
 ---
 
-# Connect With Me
+# Core Technologies
 
-- GitHub: https://github.com/Jevmis
-- LinkedIn: https://linkedin.com/in/michaeljndueso
-- Upwork: https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share
-- Email: Michaeljndueso@outlook.com
+<div class="grid cards" markdown>
+
+- :simple-cypress:
+
+    ## Cypress
+
+    End-to-End Testing
+
+- :material-play-circle:
+
+    ## Playwright
+
+    Cross-browser Automation
+
+- :simple-postman:
+
+    ## Postman
+
+    API Testing
+
+- :material-api:
+
+    ## Swagger
+
+    API Documentation
+
+- :material-database:
+
+    ## SQL
+
+    Backend Validation
+
+- :material-speedometer:
+
+    ## JMeter
+
+    Performance Testing
+
+- :material-google-spreadsheet:
+
+    ## Google Sheets
+
+    Automated QA Dashboards
+
+- :material-github:
+
+    ## GitHub Actions
+
+    Continuous Integration
+
+- :material-docker:
+
+    ## Docker
+
+    Containerization
+
+- :material-shield-check:
+
+    ## OWASP ZAP
+
+    Security Testing
+
+</div>
+
+---
+
+# Certifications
+
+I continuously invest in professional development through certifications in Quality Assurance, Automation Engineering, Cybersecurity, Performance Engineering, DevOps, Project Management and IT Operations.
+
+[View Certifications](certifications/index.md){ .md-button .md-button--primary }
+
+---
+
+# Let's Connect
+
+[GitHub](https://github.com/Jevmis){ .md-button }
+
+[LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
+
+[Upwork](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
+
+[X (Twitter)](https://x.com/jevmis){ .md-button }
+
+[Email](mailto:Michaeljndueso@outlook.com){ .md-button }
+
+---
+
+> ## *"Quality isn't accidental. It's engineered."*
