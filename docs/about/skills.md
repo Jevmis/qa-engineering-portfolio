@@ -1,193 +1,248 @@
-# Professional Experience
+# Technical Skills
 
-> Delivering software quality through leadership, structured testing, automation, and continuous improvement.
+> A combination of technical expertise, quality engineering practices, leadership, and continuous learning developed through over five years in Software Quality Assurance.
 
 ---
 
 # Overview
 
-Over the past five years, I have worked as a Quality Assurance Engineer across public-sector and private-sector software projects, helping teams deliver reliable, secure, and high-quality applications.
+Throughout my career, I have developed experience across multiple areas of Quality Engineering, from manual testing and automation to performance testing, API validation, security testing, SQL verification, and QA leadership.
 
-My experience spans the complete software testing lifecycle, from requirement analysis and test planning to automation, performance validation, release testing, and production verification.
-
-I have also led QA teams, introduced testing standards, improved documentation, and built reusable automation frameworks that increased testing efficiency and software quality.
+My approach is not simply to execute tests but to engineer quality into the software development lifecycle through structured processes, automation, and continuous improvement.
 
 ---
 
-# Industries
+# Quality Assurance
 
-Throughout my career, I have contributed to projects serving multiple industries, including:
-
-- Government & Public Sector
-- Enterprise Software
-- Business Registry Systems
-- Tax & Revenue Platforms
-- Internal Business Applications
-- Web Applications
-- Process Automation Solutions
-
----
-
-# Areas of Responsibility
-
-My day-to-day responsibilities have included:
-
-## Quality Assurance
+My core expertise includes:
 
 - Functional Testing
 - Regression Testing
 - Smoke Testing
-- User Acceptance Testing (UAT)
+- Sanity Testing
 - Exploratory Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing (UAT)
 - Cross-browser Testing
 - Cross-device Testing
+- End-to-End Testing
+- Acceptance Testing
 
 ---
 
-## Test Planning
+# Test Automation
 
-I actively participate in planning software quality by:
+I design, build, and maintain scalable automation frameworks using modern testing technologies.
 
-- Reviewing Business Requirements
-- Identifying testing scope
-- Creating Test Plans
-- Designing Test Cases
-- Preparing Release Checklists
-- Estimating testing effort
-
----
-
-## Test Automation
-
-I build and maintain reusable automation frameworks using:
+### Primary Tools
 
 - Cypress
 - Playwright
+
+### Programming Languages
+
 - JavaScript
 - TypeScript
 
-Automation responsibilities include:
+### Automation Experience
 
 - UI Automation
 - API Automation
-- Regression Suites
+- Data-driven Testing
+- Page Object Model (POM)
+- Fixtures
+- Custom Commands
+- Test Hooks
+- Environment Configuration
+- Parallel Execution
 - CI/CD Integration
-- Framework Maintenance
 
 ---
 
-## API Testing
+# API Testing
 
-Experience validating REST APIs through:
+I perform comprehensive API validation using industry-standard tools.
+
+### Tools
 
 - Postman
 - Swagger / OpenAPI
-- Automated API Testing
-- Status Code Validation
-- Response Validation
+- Newman
+
+### Experience
+
+- REST APIs
 - Authentication Testing
+- Authorization Testing
+- CRUD Validation
+- JSON Validation
+- Status Code Verification
+- Response Validation
+- API Regression Testing
 
 ---
 
-## SQL Validation
+# SQL & Database Validation
 
-Backend validation responsibilities include:
+Experience validating backend systems using SQL.
 
+### Database Skills
+
+- SQL Queries
 - Data Verification
+- Backend Validation
+- Data Integrity Checks
+- Database Testing
+- Record Validation
 - Stored Procedure Validation
-- Query Validation
-- Database Integrity Checks
-- Data Consistency Verification
 
 ---
 
-## Performance Testing
+# Performance Testing
 
-Performance engineering experience includes:
+Experience evaluating application performance under different workloads.
+
+### Tools
+
+- Apache JMeter
+
+### Performance Testing
 
 - Load Testing
 - Stress Testing
+- Spike Testing
 - Response Time Analysis
-- Apache JMeter
+- Throughput Monitoring
 - Performance Reporting
 
 ---
 
-## Security Testing
+# Security Testing
 
-Security-related activities include:
+Knowledge of secure software testing practices.
 
-- OWASP Top 10 Validation
-- Security Test Scenarios
+### Experience
+
+- OWASP Top 10
 - OWASP ZAP
 - Authentication Testing
 - Authorization Validation
+- Session Management Testing
+- Security Checklist Validation
+- Basic Vulnerability Assessment
 
 ---
 
-# Leadership Experience
+# DevOps & Continuous Integration
 
-As a QA Team Lead, I have been responsible for:
+Supporting modern software delivery through automation.
 
-- Coordinating QA activities
-- Assigning testing tasks
-- Reviewing bug reports
-- Mentoring junior QA engineers
-- Defining testing processes
-- Conducting test reviews
-- Improving documentation standards
+### Experience
 
-I enjoy helping engineers grow while creating efficient testing workflows that improve overall product quality.
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD Pipelines
+- Docker (Fundamentals)
+- Release Validation
+- Continuous Testing
 
 ---
 
 # Documentation
 
-A significant part of my work involves creating technical documentation, including:
+I believe excellent documentation is an essential part of software quality.
+
+Experience creating:
 
 - Test Plans
 - Test Strategy Documents
 - QA Process Documentation
-- Bug Reporting Guidelines
-- Release Notes
 - Standard Operating Procedures (SOPs)
+- Release Notes
 - Knowledge Base Articles
 - Wiki Documentation
-
-Good documentation helps teams remain consistent, improves onboarding, and supports long-term maintainability.
-
----
-
-# Reporting & Metrics
-
-I believe quality should be measurable.
-
-To support engineering teams and stakeholders, I have built automated reporting solutions using Google Sheets to track:
-
-- Test Execution Progress
-- Bug Status
-- Defect Trends
-- Regression Coverage
-- QA Metrics
-- Release Readiness
-
-These dashboards provide real-time visibility into testing progress and improve decision-making throughout the software development lifecycle.
+- Bug Reporting Guidelines
+- User Acceptance Testing Guides
 
 ---
 
-# Professional Philosophy
+# Reporting & Analytics
 
-I believe Quality Assurance is more than identifying defects.
+One of my strongest areas is transforming testing data into actionable insights.
 
-It involves building confidence in software through structured processes, effective communication, continuous improvement, and smart automation.
+### Experience
 
-My goal is always to help development teams deliver software that is reliable, maintainable, and provides an excellent user experience.
+- Google Sheets Automation
+- QA Dashboards
+- Test Metrics
+- Defect Metrics
+- Bug Trend Analysis
+- Test Coverage Reporting
+- Release Readiness Dashboards
+- Executive QA Reports
+
+---
+
+# Leadership
+
+Beyond testing, I enjoy helping teams improve their engineering practices.
+
+Leadership experience includes:
+
+- QA Team Leadership
+- Mentoring Junior QA Engineers
+- Test Planning
+- Sprint Planning
+- QA Process Improvement
+- Code Reviews (Automation)
+- Risk Assessment
+- Release Coordination
+- Stakeholder Communication
+
+---
+
+# Soft Skills
+
+Technical expertise is most effective when combined with strong communication and collaboration.
+
+Some of my strongest professional skills include:
+
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+- Team Collaboration
+- Leadership
+- Time Management
+- Communication
+- Continuous Learning
+- Documentation
+- Critical Thinking
+
+---
+
+# Continuous Learning
+
+Technology evolves rapidly, and I believe continuous learning is essential.
+
+I regularly expand my knowledge in:
+
+- Advanced Test Automation
+- Playwright
+- Performance Engineering
+- Security Testing
+- AI-assisted Testing
+- DevOps
+- Cloud Technologies
+- Software Architecture
+- Quality Engineering
 
 ---
 
 ## Continue Exploring
 
-- [Technical Skills](skills.md)
+- [Professional Experience](experience.md)
 - [Career Journey](journey.md)
 - [Portfolio](../portfolio/index.md)
 - [Certifications](../certifications/index.md)
