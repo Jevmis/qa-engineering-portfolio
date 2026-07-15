@@ -8,17 +8,14 @@
 
 ## Senior Quality Assurance Engineer • SDET • Test Automation Engineer
 
-📍 Abuja, Nigeria
+📍 Abuja, Nigeria 
+---
 
-📧 Michaeljndueso@outlook.com
-
-🌐 https://michaeljndueso.is-a.dev
-
-💼 Upwork: https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share
-
-🐙 GitHub: https://github.com/Jevmis
-
-💼 LinkedIn: https://linkedin.com/in/michaeljndueso
+[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
+[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
+[:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
+[:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button }
+[:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
 
 ---
 
