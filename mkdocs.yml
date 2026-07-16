@@ -150,6 +150,7 @@ nav:
 
   - 💼 Portfolio:
       - Overview: portfolio/index.md
+      - ⭐ Engineering Innovations: portfolio/engineering-innovations.md
       - Featured Projects: portfolio/projects.md
       - Automation Frameworks: portfolio/frameworks.md
       - QA Case Studies: portfolio/case-studies.md

@@ -191,11 +191,46 @@ Good engineering isn't just about solving today's problems—it's about building
 
 # :material-compass-outline: Continue Exploring
 
-- [Featured Projects](projects.md)
-- [Automation Frameworks](frameworks.md)
-- [QA Case Studies](case-studies.md)
-- [Open Source Contributions](open-source.md)
+My portfolio is organised into several dedicated sections covering real-world engineering work, reusable frameworks, documentation, and quality processes.
+
+## Engineering Innovations
+
+Discover some of the engineering solutions I've designed to improve software quality, reporting, documentation, and team productivity.
+
+[Explore Engineering Innovations](engineering-innovations.md){ .md-button .md-button--primary }
 
 ---
 
-> **"Great software is built by teams that treat quality as an engineering discipline—not just a testing activity."**
+## Featured Projects
+
+Explore real QA initiatives, automation frameworks, dashboards, testing strategies, and documentation projects.
+
+[Featured Projects](projects.md){ .md-button }
+
+---
+
+## Automation Frameworks
+
+Learn about reusable automation frameworks built with modern testing tools and engineering best practices.
+
+[Frameworks](frameworks.md){ .md-button }
+
+---
+
+## QA Case Studies
+
+Read detailed case studies describing testing approaches, challenges, and lessons learned from real software projects.
+
+[Case Studies](case-studies.md){ .md-button }
+
+---
+
+## Open Source
+
+Browse my open-source contributions, technical documentation, and community projects.
+
+[Open Source](open-source.md){ .md-button }
+
+---
+
+> **"Every project is an opportunity to build better engineering practices, not just better software."**
