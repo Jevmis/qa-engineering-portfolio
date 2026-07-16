@@ -150,7 +150,7 @@ nav:
 
   - 💼 Portfolio:
       - Overview: portfolio/index.md
-      - ⭐ Engineering Innovations: portfolio/engineering-innovations.md
+      - ⭐ Engineering Showcase: portfolio/engineering-showcase.md
       - Featured Projects: portfolio/projects.md
       - Automation Frameworks: portfolio/frameworks.md
       - QA Case Studies: portfolio/case-studies.md
@@ -158,6 +158,7 @@ nav:
 
   - 🧪 Quality Assurance:
       - Overview: qa/index.md
+      - Dashboard: qa/dashboards.md
       - Test Strategy: qa/test-strategy.md
       - Test Plans: qa/test-plans.md
       - Templates: qa/templates.md

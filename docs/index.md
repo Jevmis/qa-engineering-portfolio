@@ -27,6 +27,14 @@
 [Contact Me](contact/index.md){ .md-button }
 
 ---
+[:material-star-four-points:]
+[:material-lightbulb-on-outline:] Engineering Showcase
+
+  Engineering systems, dashboards, automation frameworks, documentation, and QA processes I've designed to improve software quality.
+
+  [Explore](portfolio/engineering-showcase.md)
+
+---
 
 ## Welcome
 

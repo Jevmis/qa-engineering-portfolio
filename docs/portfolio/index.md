@@ -193,11 +193,11 @@ Good engineering isn't just about solving today's problems—it's about building
 
 My portfolio is organised into several dedicated sections covering real-world engineering work, reusable frameworks, documentation, and quality processes.
 
-## Engineering Innovations
+## Engineering Showcase
 
 Discover some of the engineering solutions I've designed to improve software quality, reporting, documentation, and team productivity.
 
-[Explore Engineering Innovations](engineering-innovations.md){ .md-button .md-button--primary }
+[Explore Engineering Showcase](engineering-showcase.md){ .md-button .md-button--primary }
 
 ---
 
