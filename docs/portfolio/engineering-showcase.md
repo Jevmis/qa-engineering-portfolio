@@ -28,10 +28,6 @@ Every solution featured here comes from real projects and was created to solve p
 
 - **Cypress & Playwright Frameworks:** Built reusable automation frameworks using the Page Object Model (POM), custom commands, reusable utilities, fixtures, reporting, and organized project structures. The frameworks were designed to make automated testing easier to maintain, extend, and reuse across projects.
 
-➡️ Explore:
-
-- [Cypress Framework](engineering-showcase/cypress-framework.md)
-- [Playwright Framework](engineering-showcase/playwright-framework.md)
 
 ---
 
@@ -41,10 +37,6 @@ Every solution featured here comes from real projects and was created to solve p
 
 - **Wiki.js Knowledge Base:** Developed and maintained structured Wiki.js documentation containing QA onboarding guides, testing standards, environment setup instructions, product documentation, and engineering knowledge resources. The knowledge base became a central location for onboarding and team documentation.
 
-➡️ Explore:
-
-- [QA Documentation](engineering-showcase/qa-documentation.md)
-- [Wiki Documentation](engineering-showcase/wiki-documentation.md)
 
 ---
 
@@ -52,15 +44,12 @@ Every solution featured here comes from real projects and was created to solve p
 
 - **API Validation & Automation:** Built and executed API testing workflows using Postman and related tools to validate endpoints, authentication, request and response payloads, and backend functionality while supporting automated API testing.
 
-➡️ **Explore:** [API Testing](engineering-showcase/api-testing.md)
-
 ---
 
 ### 🐞 Professional Bug Reporting
 
 - **Bug Reporting:** Produced detailed bug reports with clear reproduction steps, expected and actual results, supporting evidence, severity assessment, and recommendations. These reports helped developers reproduce and resolve issues more efficiently.
 
-➡️ **Explore:** [Bug Reports](engineering-showcase/bug-reports.md)
 
 ---
 
@@ -68,7 +57,6 @@ Every solution featured here comes from real projects and was created to solve p
 
 - **Apache JMeter:** Used Apache JMeter to perform load and performance testing, analyze system behaviour under different workloads, identify bottlenecks, and support performance improvements.
 
-➡️ **Explore:** [Apache JMeter](engineering-showcase/jmeter.md)
 
 ---
 
