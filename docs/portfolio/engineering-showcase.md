@@ -1,152 +1,84 @@
 # Engineering Showcase
 
-> A showcase of engineering solutions, automation systems, documentation, and quality processes I've designed to improve software quality, team collaboration, and delivery efficiency.
+> A showcase of engineering solutions, automation systems, documentation, and quality processes I've built throughout my career.
 
 ---
 
-# Why Innovation Matters
+# About This Showcase
 
 Quality Assurance is more than executing test cases.
 
-Throughout my career, I've focused on improving the way teams work by designing reusable systems, automating repetitive tasks, standardising documentation, and building processes that increase software quality while reducing manual effort.
+Throughout my career, I've focused on improving how teams test, document, and deliver software. That has included building reusable automation frameworks, creating structured documentation, developing reporting dashboards, and introducing processes that make testing more consistent and easier to manage.
 
-Every solution presented here was created with one goal:
-
-**Help teams deliver reliable software faster and with greater confidence.**
+Every solution featured here comes from real projects and was created to solve practical challenges faced by development and QA teams.
 
 ---
 
-# Google Sheets QA Dashboard
+# Featured Core Systems
 
-## Overview
+### 📊 Real-Time Metrics & Dashboards
 
-One of my most impactful engineering projects is the development of automated Google Sheets dashboards for Quality Assurance reporting.
+- **Google Sheets QA Dashboards:** Designed and built automated dashboards that replaced manual reporting with live QA and operational metrics. These dashboards provide visibility into test execution, defect tracking, release readiness, team performance, and other key project indicators, helping stakeholders make faster, data-driven decisions.
 
-Rather than manually preparing daily and weekly reports, the dashboard provides real-time visibility into testing activities and release readiness.
-
-### Key Features
-
-- Live Test Execution Tracking
-- Pass / Fail Metrics
-- Bug Status Dashboard
-- Test Coverage Monitoring
-- Release Readiness Indicator
-- Interactive Charts
-- Team Progress Reporting
-
-### Business Value
-
-- Reduced manual reporting effort
-- Improved stakeholder visibility
-- Faster release decisions
-- Better QA planning
+➡️ **Explore:** [Google Sheets Dashboard](engineering-showcase/google-sheets-dashboard.md)
 
 ---
 
-# QA Documentation Suite
+### 🤖 Scalable Test Automation
 
-Good documentation improves software quality.
+- **Cypress & Playwright Frameworks:** Built reusable automation frameworks using the Page Object Model (POM), custom commands, reusable utilities, fixtures, reporting, and organized project structures. The frameworks were designed to make automated testing easier to maintain, extend, and reuse across projects.
 
-I designed a complete documentation ecosystem covering every stage of software testing.
+➡️ Explore:
 
-Examples include:
-
-- Test Strategies
-- Test Plans
-- Test Cases
-- Standard Operating Procedures (SOPs)
-- Release Logs
-- UAT Sign-off Documents
-- QA Workflows
-- Bug Reporting Standards
-- Knowledge Base Articles
-
-These documents help teams maintain consistency, simplify onboarding, and reduce project risk.
+- [Cypress Framework](engineering-showcase/cypress-framework.md)
+- [Playwright Framework](engineering-showcase/playwright-framework.md)
 
 ---
 
-# Wiki.js Knowledge Base
+### 📝 Documentation Ecosystems
 
-Documentation should be searchable, structured, and accessible.
+- **QA Documentation Suite:** Created Test Strategies, Test Plans, Standard Operating Procedures (SOPs), QA workflows, release documentation, QA templates, and onboarding guides to improve consistency and establish repeatable testing processes.
 
-I developed and maintained an internal Wiki.js knowledge base containing:
+- **Wiki.js Knowledge Base:** Developed and maintained structured Wiki.js documentation containing QA onboarding guides, testing standards, environment setup instructions, product documentation, and engineering knowledge resources. The knowledge base became a central location for onboarding and team documentation.
 
-- User / Product Onboarding
-- QA Processes
-- Testing Standards
-- Team Guidelines
-- Release Procedures
-- Environment Documentation
-- Onboarding Guides
-- Technical References
+➡️ Explore:
 
-The knowledge base became a central resource for engineers and QA team members.
+- [QA Documentation](engineering-showcase/qa-documentation.md)
+- [Wiki Documentation](engineering-showcase/wiki-documentation.md)
 
 ---
 
-# Automation Frameworks
+### 🔗 API Testing
 
-Automation is most valuable when it is reusable and maintainable.
+- **API Validation & Automation:** Built and executed API testing workflows using Postman and related tools to validate endpoints, authentication, request and response payloads, and backend functionality while supporting automated API testing.
 
-I have built automation frameworks using:
-
-- Cypress
-- Playwright
-
-Framework features include:
-
-- Page Object Model (POM)
-- Custom Commands
-- Fixtures
-- API Testing
-- Environment Configuration
-- Reporting
-- CI/CD Integration
-
-These frameworks reduce repetitive work while improving regression testing efficiency.
+➡️ **Explore:** [API Testing](engineering-showcase/api-testing.md)
 
 ---
 
-# Release Validation Workflow
+### 🐞 Professional Bug Reporting
 
-Successful releases require structured validation.
+- **Bug Reporting:** Produced detailed bug reports with clear reproduction steps, expected and actual results, supporting evidence, severity assessment, and recommendations. These reports helped developers reproduce and resolve issues more efficiently.
 
-I established release processes covering:
-
-- Smoke Testing
-- Regression Testing
-- UAT Validation
-- Production Verification
-- Release Sign-off
-- Post-release Monitoring
-
-This approach improves deployment confidence while reducing production issues.
+➡️ **Explore:** [Bug Reports](engineering-showcase/bug-reports.md)
 
 ---
 
-# QA Metrics & Reporting
+### ⚡ Performance Testing
 
-Measurement drives improvement.
+- **Apache JMeter:** Used Apache JMeter to perform load and performance testing, analyze system behaviour under different workloads, identify bottlenecks, and support performance improvements.
 
-Examples of metrics I regularly monitor include:
-
-- Test Execution Progress
-- Pass / Fail Rate
-- Defect Density
-- Defect Leakage
-- Test Coverage
-- Regression Status
-- Release Readiness
-
-These metrics support better planning and informed decision-making.
+➡️ **Explore:** [Apache JMeter](engineering-showcase/jmeter.md)
 
 ---
 
-# Continuous Improvement
+# Why These Projects Matter
 
-Every innovation presented here was designed to solve a real engineering challenge.
+Each project in this showcase was created to solve a real problem.
 
-Rather than simply using testing tools, I enjoy designing systems that improve software quality, increase team productivity, and support long-term engineering excellence.
+Some reduced manual work, others improved documentation, strengthened automation, simplified reporting, or supported better release decisions.
+
+Together, they demonstrate how I approach Quality Assurance—not only by finding defects, but by building practical systems that help teams deliver reliable software with confidence.
 
 ---
 

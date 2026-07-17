@@ -150,11 +150,26 @@ nav:
 
   - 💼 Portfolio:
       - Overview: portfolio/index.md
-      - ⭐ Engineering Showcase: portfolio/engineering-showcase.md
+      - ⭐ Engineering Showcase:
+          - Overview: portfolio/engineering-showcase.md
+          - Google Sheets Dashboard: portfolio/engineering-showcase/google-sheets-dashboard.md
+          # - Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
+          # - Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
+          # - QA Documentation: portfolio/engineering-showcase/qa-documentation.md
+          # - Wiki Documentation: portfolio/engineering-showcase/wiki-documentation.md
+          # - API Testing: portfolio/engineering-showcase/api-testing.md
+          # - Bug Reports: portfolio/engineering-showcase/bug-reports.md
+          # - JMeter: portfolio/engineering-showcase/jmeter.md
       - Featured Projects: portfolio/projects.md
       - Automation Frameworks: portfolio/frameworks.md
       - QA Case Studies: portfolio/case-studies.md
       - Open Source: portfolio/open-source.md
+
+  - ✍️ Engineering Journal:
+    - Overview: journal/index.md
+    - Automation: journal/automation.md
+    - Quality Assurance: journal/quality-assurance.md
+    - Career & Learning: journal/career.md
 
   - 🧪 Quality Assurance:
       - Overview: qa/index.md
@@ -176,30 +191,32 @@ nav:
       - Overview: api/index.md
       - Postman: api/postman.md
       - Swagger / OpenAPI: api/swagger.md
-      - Collections: api/collections.md
-      - Newman: api/newman.md
+      - REST API Testings: api/rest.md
+      - API Automation: api/automation.md
+      - Authentication Testing: api/authentication.md
 
   - ⚡ Performance Testing:
       - Overview: performance/index.md
-      - JMeter: performance/jmeter.md
-      - Lighthouse: performance/lighthouse.md
+      - Apache Jmeter: performance/jmeter.md
+      - Performance Metrics: performance/metrics.md
 
-  - 🛡️ Security Testing:
-      - Overview: security/index.md
-      - OWASP Top 10: security/owasp.md
-      - OWASP ZAP: security/zap.md
-      - Security Checklists: security/checklists.md
+  - 🔒 Security Testing:
+    - Overview: security/index.md
+    - OWASP ZAP: security/owasp-zap.md
+    - OWASP Top 10: security/owasp-top10.md
 
   - 🗄️ SQL Validation:
-      - Overview: sql/index.md
-      - Validation Techniques: sql/validation.md
-      - SQL Queries: sql/queries.md
+    - Overview: sql/index.md
+    - Backend Validation: sql/backend-validation.md
+    - Data Integrity: sql/data-integrity.md
+    - Stored Procedures: sql/stored-procedures.md
 
   - ☁️ DevOps:
       - Overview: devops/index.md
       - Docker: devops/docker.md
-      - CI/CD Pipelines: devops/cicd.md
+      - Release Validation: devops/release-validation.md
       - GitHub Actions: devops/github-actions.md
+      - Git & GitHub: devops/git.md
 
   - 🏅 Certifications:
       - Overview: certifications/index.md

@@ -63,7 +63,7 @@ Over the years, I've worked on enterprise applications, fintech platforms, healt
 
     ## Automation
 
-    Cypress • Playwright • Selenium
+    Cypress • Playwright •
 
 - :material-google-spreadsheet:
 

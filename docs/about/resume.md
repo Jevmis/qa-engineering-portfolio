@@ -6,7 +6,7 @@
 
 # Michael Jackson Ndueso
 
-## Senior Quality Assurance Engineer • SDET • Test Automation Engineer
+## Quality Assurance Engineer • Test Automation Engineer • SDET
 
 📍 Abuja, Nigeria 
 ---
@@ -16,16 +16,18 @@
 [:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
 [:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button }
 [:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
+[:material-phone: Call](tel:+2348098963410){ .md-button }
+
 
 ---
 
 ## Professional Summary
 
-I am a Senior Quality Assurance Engineer with over five years of experience ensuring software quality across enterprise applications.
+I am a Quality Assurance Engineer with over five years of experience supporting software quality across government projects, registry platforms, and private-sector applications.
 
-My expertise includes manual testing, automation engineering, API validation, performance testing, security testing, SQL backend validation, CI/CD integration, and QA leadership.
+My experience includes manual testing, test automation, API testing, SQL validation, performance testing, QA documentation, release validation, and process improvement.
 
-I enjoy designing scalable QA processes, building automation frameworks, mentoring QA engineers, and helping organizations deliver reliable software with confidence.
+I enjoy building maintainable automation frameworks, improving QA workflows, creating reusable documentation, and helping teams deliver reliable software with confidence.
 
 ---
 
@@ -52,8 +54,8 @@ I enjoy designing scalable QA processes, building automation frameworks, mentori
 |-----------|--------------|
 | Automation | Cypress, Playwright |
 | Languages | JavaScript, TypeScript, SQL |
-| API | Postman, Swagger/OpenAPI, Newman |
-| Performance | Apache JMeter, Lighthouse |
+| API | Postman, Swagger/OpenAPI |
+| Performance | Apache JMeter |
 | Security | OWASP Top 10, OWASP ZAP |
 | Databases | SQL Server, MySQL |
 | DevOps | Git, GitHub, GitHub Actions, Docker |
@@ -147,3 +149,15 @@ For more detailed information, please visit:
 - [Technical Skills](skills.md)
 - [Portfolio](../portfolio/index.md)
 - [Certifications](../certifications/index.md)
+
+---
+
+# Download Resume
+
+You can download the latest version of my resume below.
+
+[:material-download: Download Resume (PDF)](../assets/files/Michael_Jackson_Ndueso_Resume.pdf){ .md-button .md-button--primary }
+
+---
+
+> **"Quality is built through discipline, collaboration, and continuous improvement."**

@@ -1,33 +1,73 @@
 # Cypress
 
-:material-robot:
-
-Cypress is my primary automation framework.
-
-!!! tip
-
-    Use data-test attributes instead of CSS selectors.
+> Fast, reliable end-to-end testing for modern web applications.
 
 ---
 
-## Install
+# Overview
 
-```bash
-npm install cypress
-```
+Cypress is my primary framework for end-to-end testing.
 
----
-
-## Visit
-
-```ts
-cy.visit("/")
-```
+I use it to automate user workflows, validate APIs, perform regression testing, and improve release confidence through repeatable automated testing.
 
 ---
 
-## Assertions
+# What I Use Cypress For
 
-```ts
-cy.get("button").should("be.visible")
-```
+- UI Automation
+- API Testing
+- Regression Testing
+- Smoke Testing
+- Cross-browser Testing
+- Database Validation
+- CI/CD Integration
+
+---
+
+# Framework Features
+
+My Cypress framework includes:
+
+- Page Object Model
+- Custom Commands
+- Fixtures
+- Environment Configuration
+- Reusable Utilities
+- HTML Reports
+- Screenshots
+- Videos
+
+---
+
+# Folder Structure
+
+Typical framework organisation includes:
+
+- Pages
+- Fixtures
+- Commands
+- Utilities
+- Test Data
+- Reports
+- Configuration
+
+---
+
+# Best Practices
+
+- Keep tests independent.
+- Use reusable commands.
+- Separate test data.
+- Avoid hard-coded waits.
+- Build maintainable page objects.
+- Produce meaningful reports.
+
+---
+
+# Continuous Improvement
+
+I continuously refine my automation framework by improving performance, readability, and maintainability while adopting modern Cypress capabilities.
+
+---
+
+> **"Good automation is maintainable automation."**
