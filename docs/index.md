@@ -12,214 +12,100 @@
 
 # Michael Jackson Ndueso
 
-## Senior Quality Assurance Engineer • Test Automation Engineer • SDET
+## Quality Assurance Engineer • Test Automation Engineer • SDET
+
 [:fontawesome-brands-github:](https://github.com/Jevmis)
 [:fontawesome-brands-linkedin:](https://linkedin.com/in/michaeljndueso)
 [:fontawesome-brands-upwork:](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share)
 [:fontawesome-brands-x-twitter:](https://x.com/jevmis)
 [:material-email-outline:](mailto:Michaeljndueso@outlook.com)
 
-> Building reliable software through **Quality Engineering**, **Test Automation**, **API Testing**, **Performance Testing**, **Security Testing**, **SQL Validation**, and **DevOps**.
+> Building reliable software through **Quality Engineering**, **Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
----
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
 [Download Resume](about/resume.md){ .md-button }
 [Contact Me](contact/index.md){ .md-button }
 
 ---
-[:material-star-four-points:]
-[:material-lightbulb-on-outline:] Engineering Showcase
 
-  Engineering systems, dashboards, automation frameworks, documentation, and QA processes I've designed to improve software quality.
+# ⭐ Featured Engineering Projects
 
-  [Explore](portfolio/engineering-showcase.md)
-
----
-
-## Welcome
-
-I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer passionate about delivering high-quality software through structured testing, automation, and engineering best practices.
-
-Over the years, I've worked on enterprise applications, fintech platforms, healthcare systems, and government solutions, helping teams ship reliable software with confidence.
-
----
-
+> Explore engineering systems, automation frameworks, dashboards, documentation, and testing solutions I've built to improve software quality and delivery.
 
 <div class="grid cards" markdown>
 
-- :material-timeline-check:
+- :material-chart-line:
 
-    ## 5+ Years
+    ## 📊 Reporting Systems & QA Dashboards
 
-    Professional Quality Assurance Experience
+    Automated Google Sheets reporting systems providing live QA metrics, defect tracking, release readiness, stakeholder reporting, and operational analytics.
 
-- :material-account-group:
+    [Explore →](portfolio/engineering-showcase/reporting-systems.md)
 
-    ## Team Lead
+- :simple-cypress:
 
-    Led QA teams and mentored engineers
+    ## 🤖 Cypress Automation Framework
 
-- :material-robot:
+    Scalable automation framework featuring Page Object Model (POM), reusable commands, fixtures, reporting, and maintainable architecture.
 
-    ## Automation
+    <!-- [Explore →](portfolio/engineering-showcase/cypress-framework.md) -->
 
-    Cypress • Playwright •
+- :material-play-circle:
 
-- :material-google-spreadsheet:
+    ## 🎭 Playwright Automation Framework
 
-    ## Reporting
+    Modern cross-browser automation framework built with Playwright, TypeScript, reusable components, and reporting.
 
-    Automated Google Sheets QA Dashboards
+    <!-- [Explore →](portfolio/engineering-showcase/playwright-framework.md) -->
 
-</div>
+- :material-file-document-multiple:
 
----
+    ## 📝 QA Documentation Suite
 
-## Explore My Portfolio
+    Test strategies, SOPs, release documentation, templates, onboarding guides, and QA workflows.
 
-<div class="grid cards" markdown>
+    <!-- [Explore →](portfolio/engineering-showcase/qa-documentation.md) -->
 
-- :material-account-circle:
+- :material-book-open-page-variant:
 
-    ## About Me
+    ## 📚 Wiki.js Knowledge Base
 
-    Learn more about my professional background, leadership experience and engineering journey.
+    Centralized engineering documentation, onboarding resources, QA standards, and team knowledge management.
 
-    [Read More](about/index.md)
-
-- :material-folder-star:
-
-    ## Portfolio
-
-    Explore real QA projects, automation frameworks, documentation and open-source work.
-
-    [View Portfolio](portfolio/index.md)
-
-- :material-test-tube:
-
-    ## Quality Assurance
-
-    Functional Testing
-
-    Regression Testing
-
-    UAT
-
-    Test Planning
-
-    Defect Management
-
-    [Explore](qa/index.md)
-
-- :material-robot:
-
-    ## Test Automation
-
-    Cypress
-
-    Playwright
-
-    Framework Architecture
-
-    [Automation](automation/index.md)
+    <!-- [Explore →](portfolio/engineering-showcase/wiki-documentation.md) -->
 
 - :material-api:
 
-    ## API Testing
+    ## 🔌 API Testing
 
-    REST APIs
+    REST API validation, Postman collections, Swagger/OpenAPI documentation, authentication testing, and API automation.
 
-    Swagger
+    <!-- [Explore →](portfolio/engineering-showcase/api-testing.md) -->
 
-    Postman
+- :material-bug:
 
-    Cypress
+    ## 🐞 Bug Reporting Standards
 
-    Playwright
+    Professional bug reports with reproducible steps, supporting evidence, severity assessment, and actionable recommendations.
 
-    [API Testing](api/index.md)
+    <!-- [Explore →](portfolio/engineering-showcase/bug-reports.md) -->
 
 - :material-speedometer:
 
-    ## Performance Testing
+    ## ⚡ Performance Engineering
 
-    Apache JMeter
+    Load testing, stress testing, bottleneck analysis, performance metrics, and capacity planning using Apache JMeter.
 
-    Stress Testing
-
-    Load Testing
-
-    Lighthouse
-
-    [Performance](performance/index.md)
-
-- :material-shield-check:
-
-    ## Security Testing
-
-    OWASP Top 10
-
-    OWASP ZAP
-
-    Vulnerability Assessment
-
-    Security Validation
-
-    [Security](security/index.md)
-
-- :material-cloud-sync:
-
-    ## DevOps
-
-    GitHub Actions
-
-    Docker
-
-    CI/CD
-
-    Release Automation
-
-    [DevOps](devops/index.md)
+    <!-- [Explore →](portfolio/engineering-showcase/jmeter.md) -->
 
 </div>
-
 ---
 
-# Professional Summary
+# 👋 About Me
 
-I am a **Senior Quality Assurance Engineer** with over **5 years of experience** ensuring software quality across enterprise, fintech, healthcare, and government applications.
+I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer with over **5 years of experience** helping teams deliver reliable software.
 
-My expertise spans:
-
-- Manual Testing
-- Test Automation
-- API Testing
-- Performance Engineering
-- Security Testing
-- SQL Backend Validation
-- CI/CD Integration
-- QA Leadership
-- Google Sheets Automation
-- Agile Delivery
-
-I enjoy building scalable automation frameworks, improving engineering processes, mentoring QA engineers, and helping organizations deliver reliable software with confidence.
-
----
-
-# Technical Expertise
-
-| Area | Technologies |
-|------|--------------|
-| Test Automation | Cypress, Playwright |
-| Languages | JavaScript, TypeScript, SQL |
-| API Testing | Postman, Swagger, Cypress, Playwright |
-| Performance | Apache JMeter, Lighthouse |
-| Security | OWASP Top 10, OWASP ZAP |
-| Databases | SQL Server, MySQL, PostgreSQL |
-| DevOps | GitHub Actions, Docker |
-| Reporting | Google Sheets Automation, Excel Dashboards |
-| Project Management | Jira |
-| Version Control | Git, GitHub |
+My work spans enterprise applications, fintech, healthcare, and government solutions, where I've designed automation frameworks, reporting systems, documentation, and engineering processes that improve software quality and team efficiency.
 
 ---
 
@@ -240,127 +126,33 @@ I enjoy building scalable automation frameworks, improving engineering processes
 
 ---
 
-# Current Focus
+# 🛠️ Technical Expertise
 
-<div class="grid cards" markdown>
+| Area | Technologies |
+|------|--------------|
+| Test Automation | Cypress, Playwright |
+| Languages | JavaScript, TypeScript, SQL |
+| API Testing | Postman, Swagger/OpenAPI |
+| Performance | Apache JMeter, Lighthouse |
+| Security | OWASP Top 10, OWASP ZAP |
+| Databases | SQL Server, PostgreSQL, MySQL |
+| DevOps | GitHub Actions, Docker |
+| Reporting | Google Sheets Automation |
+| Project Management | Jira |
+| Version Control | Git, GitHub |
 
-- :material-robot:
 
-    ## Automation Engineering
 
-    Building scalable automation frameworks using Cypress and Playwright.
+# 🏅 Certifications
 
-- :material-api:
-
-    ## API Automation
-
-    REST API validation, automation and contract testing.
-
-- :material-speedometer:
-
-    ## Performance Engineering
-
-    Load, stress and endurance testing using Apache JMeter.
-
-- :material-shield-check:
-
-    ## Security
-
-    Security validation following OWASP best practices.
-
-- :material-google-spreadsheet:
-
-    ## QA Reporting
-
-    Automated dashboards using Google Sheets for test reporting and engineering metrics.
-
-- :material-cloud-upload:
-
-    ## DevOps
-
-    Continuous Integration, GitHub Actions and Release Quality.
-
-</div>
-
----
-
-# Core Technologies
-
-<div class="grid cards" markdown>
-
-- :simple-cypress:
-
-    ## Cypress
-
-    End-to-End Testing
-
-- :material-play-circle:
-
-    ## Playwright
-
-    Cross-browser Automation
-
-- :simple-postman:
-
-    ## Postman
-
-    API Testing
-
-- :material-api:
-
-    ## Swagger
-
-    API Documentation
-
-- :material-database:
-
-    ## SQL
-
-    Backend Validation
-
-- :material-speedometer:
-
-    ## JMeter
-
-    Performance Testing
-
-- :material-google-spreadsheet:
-
-    ## Google Sheets
-
-    Automated QA Dashboards
-
-- :material-github:
-
-    ## GitHub Actions
-
-    Continuous Integration
-
-- :material-docker:
-
-    ## Docker
-
-    Containerization
-
-- :material-shield-check:
-
-    ## OWASP ZAP
-
-    Security Testing
-
-</div>
-
----
-
-# Certifications
-
-I continuously invest in professional development through certifications in Quality Assurance, Automation Engineering, Cybersecurity, Performance Engineering, DevOps, Project Management and IT Operations.
+I continuously invest in professional development through certifications covering Quality Assurance, Automation Engineering, Cybersecurity, Performance Testing, DevOps, Project Management, and IT Operations.
 
 [View Certifications](certifications/index.md){ .md-button .md-button--primary }
 
 ---
 
-# Let's Connect
+# 🤝 Let's Connect
+
 [:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
 [:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
