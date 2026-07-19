@@ -101,10 +101,6 @@ extra:
     new: Recently Added
 
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Jevmis
-      name: GitHub
-
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/michaeljndueso
       name: LinkedIn
@@ -113,13 +109,21 @@ extra:
       link: https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share
       name: Upwork
 
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/jevmis
-      name: X
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jevmis
+      name: GitHub
+
+    # - icon: fontawesome/brands/x-twitter
+    #   link: https://x.com/jevmis
+    #   name: X
 
     - icon: fontawesome/solid/envelope
       link: mailto:Michaeljndueso@outlook.com
       name: Email
+
+    - icon: fontawesome/solid/phone
+      link: tel:+2348098963410
+      name: Call
 
   analytics:
     feedback:

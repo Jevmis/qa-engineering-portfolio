@@ -13,12 +13,13 @@ Whether you'd like to discuss software quality, automation, collaboration opport
 # Professional Profiles
 📍 Abuja, Nigeria 
 
-[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
 [:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
-[:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button }
 [:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
+[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 [:material-phone: Call](tel:+2348098963410){ .md-button }
+<!-- [:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button } -->
+
 
 # Areas of Interest
 

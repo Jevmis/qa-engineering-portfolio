@@ -14,16 +14,20 @@
 
 ## Quality Assurance Engineer • Test Automation Engineer • SDET
 
-[:fontawesome-brands-github:](https://github.com/Jevmis)
 [:fontawesome-brands-linkedin:](https://linkedin.com/in/michaeljndueso)
 [:fontawesome-brands-upwork:](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share)
-[:fontawesome-brands-x-twitter:](https://x.com/jevmis)
 [:material-email-outline:](mailto:Michaeljndueso@outlook.com)
+[:fontawesome-brands-github:](https://github.com/Jevmis)
+[:fontawesome-solid-phone:](tel:+2348098963410)
+
+<!-- [:fontawesome-brands-x-twitter:](https://x.com/jevmis) -->
+
+
 
 > Building reliable software through **Quality Engineering**, **Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
-[Download Resume](about/resume.md){ .md-button }
+[View Resume](about/resume.md){ .md-button }
 [Contact Me](contact/index.md){ .md-button }
 
 ---
@@ -153,11 +157,12 @@ I continuously invest in professional development through certifications coverin
 
 # 🤝 Let's Connect
 
-[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
 [:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
-[:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button }
+<!-- [:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button } -->
 [:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
+[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
+
 
 ---
 
