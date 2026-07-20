@@ -20,12 +20,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install mkdocs-material
-          pip install mkdocs-video
+          # If requirements.txt exists, install it; otherwise ignore error
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install mkdocs-material mkdocs-video
 
       - name: Deploy MkDocs
-        run: mkdocs gh-deploy --force
+        run: python -m mkdocs gh-deploy --force
