@@ -46,7 +46,7 @@
 
 - :simple-cypress:
 
-    ## 🤖 Cypress Automation Framework
+    ## :simple-cypress: Cypress Automation Framework
 
     Scalable automation framework featuring Page Object Model (POM), reusable commands, fixtures, reporting, and maintainable architecture.
 
@@ -90,7 +90,7 @@
 
     Professional defect reporting using structured bug templates, reproducible test scenarios, supporting evidence, severity and priority assessment, lifecycle management, and actionable recommendations for development teams.
 
-    <!-- [Explore →](portfolio/engineering-showcase/bug-reports.md) -->
+    [Explore →](portfolio/engineering-showcase/bug-reports.md)
 
 - :material-speedometer:
 
@@ -98,7 +98,7 @@
 
     Load testing, stress testing, bottleneck analysis, performance metrics, and capacity planning using Apache JMeter.
 
-    <!-- [Explore →](portfolio/engineering-showcase/jmeter.md) -->
+    [Explore →](portfolio/engineering-showcase/jmeter.md)
 
 </div>
 ---

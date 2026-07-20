@@ -95,6 +95,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+  
+
 extra:
   generator: false
 
@@ -155,17 +157,16 @@ nav:
 
   - 💼 Portfolio:
       - Overview: portfolio/index.md
-
       - ⭐ Engineering Showcase:
           - Overview: portfolio/engineering-showcase.md
           - 📊 Reporting Systems & QA Dashboards: portfolio/engineering-showcase/reporting-systems.md
           - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
           - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
           - 📝 QA Documentation: portfolio/engineering-showcase/qa-documentation.md
-          - 🧠 Knowledge Management System (KMS): portfolio/engineering-showcase/wiki-documentation.md
+          - "🧠 Knowledge Management System (KMS)": portfolio/engineering-showcase/wiki-documentation.md
           - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
-          # - 🐞 Bug Reporting Standards: portfolio/engineering-showcase/bug-reports.md
-          # - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
+          - 🐞 Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
+          - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
 
       - ⭐ Featured Projects: portfolio/projects.md
       - 🤖 Automation Frameworks: portfolio/frameworks.md
