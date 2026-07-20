@@ -158,16 +158,16 @@ The report summarizes:
 - Percentiles
 - Performance Trends
 
-📥 **Preview Sample PDF Report**
+<!-- 📥 **Preview Sample PDF Report** -->
 
-<iframe
+<!-- <iframe
     src="../assets/files/zap_report.pdf"
     width="100%"
     height="800px"
     style="border: 1px solid #ddd; border-radius: 8px;">
 </iframe>
 
-[:material-download: Download Resume (PDF)](../assets/files/zap_report.pdf){ .md-button .md-button--primary }
+[:material-download: Download Resume (PDF)](../assets/files/zap_report.pdf){ .md-button .md-button--primary } -->
 
 <!-- [:material-download: Download Resume (PDF)](../assets/files/Michael_Jackson_Ndueso_Resume.pdf){ .md-button .md-button--primary } -->
 ---
