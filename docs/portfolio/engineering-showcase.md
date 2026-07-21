@@ -35,8 +35,8 @@ Designed to remain maintainable, scalable, and easy to extend across multiple pr
 
 ➡️ Explore:
 
-- [Cypress Framework](cypress-framework.md)
-- [Playwright Framework](playwright-framework.md)
+- [Cypress Framework](cypress-framework)
+- [Playwright Framework](playwright-framework)
 
 ---
 
@@ -78,8 +78,8 @@ Also developed a Wiki.js knowledge base containing engineering documentation and
 
 ➡️ **Explore:**
 
-- [QA Documentation](qa-documentation.md)
-- [Wiki.js Knowledge Base](wiki-documentation.md)
+- [QA Documentation](qa-documentation)
+- [Wiki.js Knowledge Base](wiki-documentation)
 
 ---
 
@@ -97,7 +97,7 @@ Activities include:
 - Postman Collections
 - Swagger / OpenAPI
 
-➡️ **Explore:** [API Testing](api-testing.md)
+➡️ **Explore:** [API Testing](api-testing)
 
 ---
 
@@ -115,7 +115,7 @@ Reports typically include:
 - Environment Details
 - Recommendations
 
-➡️ **Explore:** [Bug Reports](bug-reports.md)
+➡️ **Explore:** [Bug Reports](bug-reports)
 
 ---
 
@@ -132,7 +132,7 @@ Areas include:
 - Performance Reporting
 - Capacity Assessment
 
-➡️ **Explore:** [Apache JMeter](jmeter.md)
+➡️ **Explore:** [Apache JMeter](jmeter)
 
 ---
 ## 🛡️ Security Testing
@@ -148,7 +148,7 @@ Areas include:
 - Input Validation
 - Security Reporting
 
-➡️ **Explore:** [Security Testing](security-testing.md)
+➡️ **Explore:** [Security Testing](security-testing)
 
 ---
 
@@ -165,7 +165,7 @@ Technologies include:
 - Playwright
 - Continuous Testing
 
-➡️ **Explore:** [CI/CD & DevOps](ci-cd.md)
+➡️ **Explore:** [CI/CD & DevOps](ci-cd)
 
 ---
 
