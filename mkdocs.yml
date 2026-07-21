@@ -155,81 +155,96 @@ nav:
       - Education: about/education.md
       - Career Journey: about/journey.md
 
-  - 💼 Portfolio:
+  - 🚀 Engineering Portfolio:
       - Overview: portfolio/index.md
+      - Engineering Toolkit: portfolio/toolkit.md
+      # - 🧰 QA Engineering Toolkit: portfolio/toolkit.md      
       - ⭐ Engineering Showcase:
           - Overview: portfolio/engineering-showcase.md
-          - 📊 Reporting Systems & QA Dashboards: portfolio/engineering-showcase/reporting-systems.md
-          - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
-          - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
-          - 📝 QA Documentation: portfolio/engineering-showcase/qa-documentation.md
-          - "🧠 Knowledge Management System (KMS)": portfolio/engineering-showcase/wiki-documentation.md
-          - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
-          - 🐞 Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
-          - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
-          - 🛡️ Security Testing (OWASP ZAP): portfolio/engineering-showcase/security-testing.md
-          - 🚀 CI/CD & DevOps: portfolio/engineering-showcase/ci-cd.md
-      - 🧰 QA Engineering Toolkit: portfolio/toolkit.md
-      - ⭐ Featured Projects: portfolio/projects.md
-      - 🤖 Automation Frameworks: portfolio/frameworks.md
-      - 📖 QA Case Studies: portfolio/case-studies.md
-      - 🌍 Open Source: portfolio/open-source.md
+          - Reporting Systems & QA Dashboards: portfolio/engineering-showcase/reporting-systems.md
+          # - 📊 Reporting Systems & QA Dashboards: portfolio/engineering-showcase/reporting-systems.md
+          - Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
+          # - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
+          - Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
+          # - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
+          - QA Documentation: portfolio/engineering-showcase/qa-documentation.md
+          # - 📝 QA Documentation: portfolio/engineering-showcase/qa-documentation.md
+          - Knowledge Management System (KMS): portfolio/engineering-showcase/wiki-documentation.md
+          # - "🧠 Knowledge Management System (KMS)": portfolio/engineering-showcase/wiki-documentation.md
+          - API Testing: portfolio/engineering-showcase/api-testing.md
+          # - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
+          - Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
+          # - 🐞 Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
+          - Performance Engineering: portfolio/engineering-showcase/jmeter.md
+          # - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
+          - Security Testing (OWASP ZAP): portfolio/engineering-showcase/security-testing.md
+          # - 🛡️ Security Testing (OWASP ZAP): portfolio/engineering-showcase/security-testing.md
+          - CI/CD & DevOps: portfolio/engineering-showcase/ci-cd.md
+          # - 🚀 CI/CD & DevOps: portfolio/engineering-showcase/ci-cd.md
+      - Projects: portfolio/projects.md
+      # - ⭐ Featured Projects: portfolio/projects.md
+      # - Automation Frameworks: portfolio/frameworks.md
+      # - 🤖 Automation Frameworks: portfolio/frameworks.md
+      - Case Studies: portfolio/case-studies.md
+      # - 📖 QA Case Studies: portfolio/case-studies.md
+      - Open Source: portfolio/open-source.md
+      # - 🌍 Open Source: portfolio/open-source.md
 
-  - ✍️ Engineering Journal:
-    - Overview: journal/index.md
-    - Automation: journal/automation.md
-    - Quality Assurance: journal/quality-assurance.md
-    - Career & Learning: journal/career.md
+  # - ✍️ Engineering Journal:
+  #   - Overview: journal/index.md
+  #   - Automation: journal/automation.md
+  #   - Quality Assurance: journal/quality-assurance.md
+  #   - Career & Learning: journal/career.md
 
-  - 🧪 Quality Assurance:
-      - Overview: qa/index.md
-      - Dashboard: qa/dashboards.md
-      - Test Strategy: qa/test-strategy.md
-      - Test Plans: qa/test-plans.md
-      - Templates: qa/templates.md
-      - Checklists: qa/checklists.md
-      - Bug Management: qa/bug-management.md
+  # - 🧪 Quality Assurance:
+  #     - Overview: qa/index.md
+  #     - Dashboard: qa/dashboards.md
+  #     - Test Strategy: qa/test-strategy.md
+  #     - Test Plans: qa/test-plans.md
+  #     - Templates: qa/templates.md
+  #     - Checklists: qa/checklists.md
+  #     - Bug Management: qa/bug-management.md
 
-  - 🤖 Test Automation:
-      - Overview: automation/index.md
-      - Cypress: automation/cypress.md
-      - Playwright: automation/playwright.md
-      - Framework Architecture: automation/framework.md
-      - GitHub Actions: automation/github-actions.md
+  # - 🤖 Test Automation:
+  #     - Overview: automation/index.md
+  #     - Cypress: automation/cypress.md
+  #     - Playwright: automation/playwright.md
+  #     - Framework Architecture: automation/framework.md
+  #     - GitHub Actions: automation/github-actions.md
 
-  - 🔌 API Testing:
-      - Overview: api/index.md
-      - Postman: api/postman.md
-      - Swagger / OpenAPI: api/swagger.md
-      - REST API Testings: api/rest.md
-      - API Automation: api/automation.md
-      - Authentication Testing: api/authentication.md
+  # - 🔌 API Testing:
+  #     - Overview: api/index.md
+  #     - Postman: api/postman.md
+  #     - Swagger / OpenAPI: api/swagger.md
+  #     - REST API Testings: api/rest.md
+  #     - API Automation: api/automation.md
+  #     - Authentication Testing: api/authentication.md
 
-  - ⚡ Performance Testing:
-      - Overview: performance/index.md
-      - Apache Jmeter: performance/jmeter.md
-      - Performance Metrics: performance/metrics.md
+  # - ⚡ Performance Testing:
+  #     - Overview: performance/index.md
+  #     - Apache Jmeter: performance/jmeter.md
+  #     - Performance Metrics: performance/metrics.md
 
-  - 🔒 Security Testing:
-    - Overview: security/index.md
-    - OWASP ZAP: security/owasp-zap.md
-    - OWASP Top 10: security/owasp-top10.md
+  # - 🔒 Security Testing:
+  #   - Overview: security/index.md
+  #   - OWASP ZAP: security/owasp-zap.md
+  #   - OWASP Top 10: security/owasp-top10.md
 
-  - 🗄️ SQL Validation:
-    - Overview: sql/index.md
-    - Backend Validation: sql/backend-validation.md
-    - Data Integrity: sql/data-integrity.md
-    - Stored Procedures: sql/stored-procedures.md
+  # - 🗄️ SQL Validation:
+  #   - Overview: sql/index.md
+  #   - Backend Validation: sql/backend-validation.md
+  #   - Data Integrity: sql/data-integrity.md
+  #   - Stored Procedures: sql/stored-procedures.md
 
-  - ☁️ DevOps:
-      - Overview: devops/index.md
-      - Docker: devops/docker.md
-      - Release Validation: devops/release-validation.md
-      - GitHub Actions: devops/github-actions.md
-      - Git & GitHub: devops/git.md
+  # - ☁️ DevOps:
+  #     - Overview: devops/index.md
+  #     - Docker: devops/docker.md
+  #     - Release Validation: devops/release-validation.md
+  #     - GitHub Actions: devops/github-actions.md
+  #     - Git & GitHub: devops/git.md
 
   - 🏅 Certifications:
-      - Overview & Highlights: certifications/index.md
+      - Overview: certifications/index.md
       - All Certifications Registry: certifications/all-certifications.md
       - QA Automation: certifications/qa-automation.md
       - Software Engineering: certifications/software-engineering.md
@@ -243,15 +258,15 @@ nav:
 
     
 
-  - 💼 Career:
-      - Overview: career/index.md
-      - Experience: career/experience.md
-      - Leadership: career/leadership.md
-      - Resume: career/resume.md
-      - Speaking: career/speaking.md
+  # - 💼 Career:
+  #     - Overview: career/index.md
+  #     - Experience: career/experience.md
+  #     - Leadership: career/leadership.md
+  #     - Resume: career/resume.md
+  #     - Speaking: career/speaking.md
 
-  - 📝 Blog:
-      - Articles: blog/index.md
+  # - 📝 Blog:
+  #     - Articles: blog/index.md
 
   - 📬 Contact:
       - Contact Me: contact/index.md

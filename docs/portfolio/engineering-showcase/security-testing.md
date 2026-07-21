@@ -144,20 +144,6 @@ View a sample OWASP ZAP vulnerability assessment report generated during an auto
 ![Sample Security Assessment HTML Report](../../assets/images/engineering-showcase/zap/zap-html-report.png){ .md-button .md-button--primary }
 
 
-## 📄 Sample Performance Report
-
-Below is an example of a performance report generated after executing a load test with Apache JMeter.
-
-The report summarizes:
-
-- Response Times
-- Throughput
-- Error Rate
-- Requests per Second
-- Latency
-- Percentiles
-- Performance Trends
-
 <!-- 📥 **Preview Sample PDF Report** -->
 
 <!-- <iframe
