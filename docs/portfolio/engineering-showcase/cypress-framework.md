@@ -8,7 +8,7 @@
 
 Over the years, I've used Cypress to automate functional, regression, API, and end-to-end testing across enterprise, fintech, healthcare, and government applications.
 
-Rather than simply writing test scripts, I focus on designing automation frameworks that are scalable, reusable, and easy to maintain as products evolve.
+Rather than viewing automation as simply writing test scripts, I treat it as an engineering discipline focused on building scalable frameworks that improve software quality, accelerate releases, and reduce long-term maintenance costs.
 
 My approach emphasizes clean architecture, reusable components, reliable execution, and engineering practices that reduce maintenance costs over time.
 
@@ -35,19 +35,30 @@ The framework follows modern automation engineering principles including:
 
 ## Technologies Used
 
+### Core
+
 - Cypress
 - JavaScript
 - TypeScript
 - Node.js
-- Mochawesome Reporting
-- Cypress Plugin API
+
+### Testing & Authentication
+
 - Mailinator
 - Auth0
+- cypress-plugin-api
+
+### Reporting
+
+- Mochawesome
+
+### DevOps
+
 - GitHub Actions
 
 ---
 
-# Framework Structure
+## Framework Architecture
 
 The framework is organised to encourage scalability and maintainability.
 
@@ -86,14 +97,14 @@ To eliminate manual intervention, I designed an automated login flow that integr
 - Auth0
 - Mailinator
 
-The framework automatically:
+The automated authentication workflow:
 
 1. Enters the test email
 2. Retrieves the OTP from Mailinator
 3. Extracts the verification code
 4. Completes authentication
 5. Stores the authenticated session
-6. Continues testing without user interaction
+6. Continues test execution without further user interaction
 
 This approach enables reliable testing of secure authentication workflows while significantly reducing execution time.
 
@@ -125,6 +136,8 @@ Benefits include:
 - Improved test stability
 - Lower execution time
 
+This significantly reduced overall suite execution time while improving reliability for regression and CI/CD pipelines.
+
 ### Implementation
 
 ![](../../assets/images/engineering-showcase/cypress/cy-session.png){ loading=lazy }
@@ -138,7 +151,7 @@ Benefits include:
 
 ## 🔌 API Testing with `cy.api()`
 
-Although Postman remains excellent for exploratory testing, I wanted API automation to live alongside UI automation.
+While Postman is well suited for exploratory API testing, I wanted automated API validation to live alongside UI automation within a single engineering workflow.
 
 Using `cypress-plugin-api`, I integrated API testing directly into the Cypress framework.
 
@@ -167,16 +180,31 @@ Running API tests alongside UI tests simplifies maintenance and keeps all automa
 
 The framework also supports:
 
+- Authentication workflows
+- Session management
+- API automation
 - Cross-browser testing
 - Network interception
 - File uploads
-- Authentication workflows
 - Database validation
-- Custom reporting
 - Fixtures
 - Environment management
 - Parallel execution
+- Custom reporting
 - CI/CD integration
+
+---
+
+# Engineering Impact
+
+This framework was designed to improve both engineering efficiency and software quality by:
+
+- Reducing repetitive manual regression testing
+- Increasing test reliability and consistency
+- Supporting continuous integration pipelines
+- Simplifying framework maintenance through reusable components
+- Improving release confidence with automated validation
+- Providing faster feedback to development teams
 
 ---
 
@@ -199,19 +227,28 @@ The goal is to build automation that scales alongside the application it support
 
 # Skills Demonstrated
 
+### Automation Engineering
+
 - Cypress
 - JavaScript
-- Test Automation
+- TypeScript
+- Test Architecture
+- Page Object Model
+- Custom Commands
+
+### Quality Engineering
+
 - API Testing
 - Authentication Testing
 - Session Management
 - Mailinator Integration
 - Auth0
-- Page Object Model
-- Custom Commands
-- Test Architecture
+
+### DevOps
+
 - CI/CD
+- GitHub Actions
 
 ---
 
-> **"Good automation isn't measured by the number of tests, it is measured by how easily those tests evolve with the product."**
+> **"Good automation isn't measured by the number of tests it contains, but by how easily those tests evolve with the product."**

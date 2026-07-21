@@ -8,9 +8,9 @@
 
 As I expanded my automation expertise beyond Cypress, I began exploring Playwright to better understand modern browser automation and cross-browser testing.
 
-Rather than simply learning a new tool, I focused on understanding the engineering principles behind building reliable automation frameworks that remain maintainable as applications evolve.
+Rather than simply learning a new automation tool, I focused on understanding the engineering principles behind building reliable, maintainable, and scalable test frameworks.
 
-My Playwright framework reflects that journey, applying clean architecture, reusable components, and software engineering best practices to automated testing.
+This project reflects that journey by applying clean architecture, reusable components, and modern software engineering practices to create automation that remains easy to extend as applications evolve.
 
 ---
 
@@ -34,16 +34,30 @@ The framework is built around modern automation engineering principles, includin
 
 ## Technologies Used
 
+### Core
+
 - Playwright
 - TypeScript
 - Node.js
+
+### Testing
+
 - Playwright Test Runner
+
+### Reporting & Debugging
+
 - HTML Reports
-- VS Code
+- Trace Viewer
+- Screenshots
+- Video Recording
+
+### Development
+
+- Visual Studio Code
 
 ---
 
-# Framework Structure
+# Framework Architecture
 
 The project follows a modular architecture designed for scalability and maintainability.
 
@@ -75,7 +89,7 @@ Why create another file when all the interactions could live inside a single tes
 
 The answer became clear as projects grew.
 
-Instead of scattering selectors throughout multiple test files, page interactions become reusable methods.
+Instead of scattering selectors across multiple test files, user interactions are encapsulated into reusable page methods that can be shared throughout the framework.
 
 For example, rather than repeatedly writing:
 
@@ -136,6 +150,20 @@ The framework supports testing across:
 
 This enables early detection of browser-specific issues without requiring additional tooling.
 
+Running the same tests across Chromium, Firefox, and WebKit helps identify browser-specific issues early, improving confidence before release.
+
+---
+
+# Engineering Impact
+
+This framework was designed to:
+
+- Improve test maintainability through reusable page objects
+- Reduce duplicated automation code
+- Simplify future UI updates
+- Enable reliable cross-browser validation
+- Support scalable test development as applications grow
+
 ---
 
 # Reporting & Debugging
@@ -151,13 +179,13 @@ Features include:
 - Step-by-step Execution
 - Network Inspection
 
-These tools provide valuable insights into test execution and significantly reduce debugging time.
+These capabilities provide detailed visibility into every test execution, making failures easier to reproduce, diagnose, and resolve.
 
 ---
 
 # Lessons Learned
 
-Learning Playwright reinforced an important principle:
+Building this framework reinforced one important engineering principle:
 
 Automation is not just about executing tests—it is about designing software.
 
@@ -175,16 +203,24 @@ Understanding these concepts has helped me build automation that is easier to ex
 
 # Skills Demonstrated
 
+### Automation Engineering
+
 - Playwright
 - TypeScript
-- Page Object Model
-- Cross-browser Testing
-- Test Automation
-- HTML Reports
-- Locator Strategies
 - Automation Framework Design
+- Page Object Model
+
+### Testing
+
+- Cross-browser Testing
+- Locator Strategies
+- Test Automation
+
+### Engineering
+
+- HTML Reports
 - Software Engineering Principles
 
 ---
 
-> **"A good automation framework doesn't just execute tests, it makes future maintenance easier."**
+> **"The true value of an automation framework isn't measured by how many tests it runs, but by how easily it adapts as the product evolves."**
