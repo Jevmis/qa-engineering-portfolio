@@ -175,19 +175,6 @@ nav:
       - 📖 QA Case Studies: portfolio/case-studies.md
       - 🌍 Open Source: portfolio/open-source.md
 
-      - 🎓 Certifications:
-        - Overview & Highlights: portfolio/certifications/index.md
-        - All Certifications Registry: portfolio/certifications/all-certifications.md
-        - QA Automation: portfolio/certifications/qa-automation.md
-        - Software Engineering: portfolio/certifications/software-engineering.md
-        - API Testing: portfolio/certifications/api-testing.md
-        - Cybersecurity & Privacy: portfolio/certifications/cybersecurity.md
-        - DevOps & Cloud Support: portfolio/certifications/devops-cloud.md
-        - Data Analytics: portfolio/certifications/data-analytics.md
-        - Operations & Project Management: portfolio/certifications/operations-management.md
-        - Customer Experience: portfolio/certifications/customer-experience.md
-        - Leadership & Management: portfolio/certifications/leadership.md
-
   - ✍️ Engineering Journal:
     - Overview: journal/index.md
     - Automation: journal/automation.md
@@ -242,9 +229,18 @@ nav:
       - Git & GitHub: devops/git.md
 
   - 🏅 Certifications:
-      - Overview: certifications/index.md
-      - Professional Certifications: certifications/professional.md
-      - Learning Journey: certifications/journey.md
+      - Overview & Highlights: certifications/index.md
+      - All Certifications Registry: certifications/all-certifications.md
+      - QA Automation: certifications/qa-automation.md
+      - Software Engineering: certifications/software-engineering.md
+      - API Testing: certifications/api-testing.md
+      - Cybersecurity & Privacy: certifications/cybersecurity.md
+      - DevOps & Cloud Support: certifications/devops-cloud.md
+      - Data Analytics: certifications/data-analytics.md
+      - Operations & Project Management: certifications/operations-management.md
+      - Customer Experience: certifications/customer-experience.md
+      - Leadership & Management: certifications/leadership.md
+
     
 
   - 💼 Career:

@@ -26,7 +26,7 @@
 
 > Building reliable software through **Quality Engineering**, **Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
-[View Portfolio](portfolio/index.md){ .md-button .md-button--primary }[View Resume](about/resume.md){ .md-button }[Contact Me](contact/index.md){ .md-button }
+[View Portfolio](portfolio/index.md){ .md-button .md-button--primary } [View Resume](about/resume.md){ .md-button } [Contact Me](contact/index.md){ .md-button }
 
 ---
 
