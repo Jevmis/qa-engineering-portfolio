@@ -16,7 +16,7 @@ These dashboards reduce reporting effort, improve collaboration, and provide sta
 
 !!! success "Engineering Snapshot"
 
-    - **5 Reporting Systems** engineered using Google Sheets
+    - **6 Reporting Systems** engineered using Google Sheets
     - **Real-time QA Metrics & KPI Dashboards**
     - **Automated Operational Reporting**
     - **Cross-sheet Data Integration**
