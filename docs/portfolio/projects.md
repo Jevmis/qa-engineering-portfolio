@@ -13,7 +13,6 @@ Each project reflects a practical challenge encountered in real-world environmen
 ---
 
 !!! success "Featured Engineering Projects"
-
 ```
 📊 QA Reporting Dashboard
 
