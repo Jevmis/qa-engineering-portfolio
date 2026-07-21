@@ -57,7 +57,7 @@ Key capabilities include:
 
 These dashboards significantly reduced manual reporting effort while improving visibility across QA activities.
 
-➡️ **Explore:** [📊 Reporting Systems & QA Dashboards](reporting-systems.md)
+➡️ **Explore:** [📊 Reporting Systems & QA Dashboards](reporting-systems)
 
 ---
 ## 📚 Knowledge & Documentation
