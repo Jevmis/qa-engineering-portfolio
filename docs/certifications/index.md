@@ -41,7 +41,7 @@ Cypress • Playwright • Software Testing • Test Automation • Quality Engi
 
 UI Automation, End-to-End Testing, Automation Frameworks, Testing Fundamentals and Quality Engineering certifications.
 
-➡️ **[View Certifications](qa-automation.md)**
+➡️ **[More Details](qa-automation.md)**
 
 ---
 
@@ -55,7 +55,7 @@ REST APIs • Postman • JMeter • Performance Testing • Load Testing
 
 API validation, performance engineering, load testing, and backend testing certifications.
 
-➡️ **[View Certifications](api-testing.md)**
+➡️ **[More Details](api-testing.md)**
 
 ---
 
@@ -69,7 +69,7 @@ JavaScript • Python • Programming • Software Engineering
 
 Programming foundations, JavaScript, Python, software engineering, and development-related certifications.
 
-➡️ **[View Certifications](software-engineering.md)**
+➡️ **[More Details](software-engineering.md)**
 
 ---
 
@@ -83,7 +83,7 @@ Google Cybersecurity • Penetration Testing • OWASP • Data Protection • S
 
 Cybersecurity, penetration testing, information security, privacy, and data protection certifications.
 
-➡️ **[View Certifications](cybersecurity.md)**
+➡️ **[More Details](cybersecurity.md)**
 
 ---
 
@@ -97,7 +97,7 @@ Git • GitHub • Linux • Cloud • IT Infrastructure
 
 Configuration management, operating systems, infrastructure, DevOps, and cloud-related certifications.
 
-➡️ **[View Certifications](devops-cloud.md)**
+➡️ **[More Details](devops-cloud.md)**
 
 ---
 
@@ -111,7 +111,7 @@ SQL • Google Data Analytics • R • Business Intelligence • Data Visualiza
 
 Data analytics, reporting, visualization, SQL, spreadsheets, and business intelligence certifications.
 
-➡️ **[View Certifications](data-analytics.md)**
+➡️ **[More Details](data-analytics.md)**
 
 ---
 
@@ -125,7 +125,7 @@ Operations Management • Lean • Agile • ITIL • Six Sigma • Jira
 
 Project management, operations excellence, quality management, Agile, Lean, and ITIL certifications.
 
-➡️ **[View Certifications](operations-management.md)**
+➡️ **[More Details](operations-management.md)**
 
 ---
 
@@ -139,7 +139,7 @@ Zendesk • CRM • Customer Success • Communication
 
 Customer support, customer experience, service management, and communication certifications.
 
-➡️ **[View Certifications](customer-experience.md)**
+➡️ **[More Details](customer-experience.md)**
 
 ---
 
@@ -153,7 +153,7 @@ Leadership • Communication • Professional Development • Workplace Skills
 
 Leadership, professional development, workplace effectiveness, memberships, and communication certifications.
 
-➡️ **[View Certifications](leadership.md)**
+➡️ **[More Details](leadership.md)**
 
 ---
 
