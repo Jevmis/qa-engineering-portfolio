@@ -10,9 +10,10 @@ Throughout my QA leadership journey, I designed, implemented, and administered i
 
 Rather than allowing critical knowledge to become scattered across emails, chat messages, spreadsheets, and individual documents, I centralized engineering documentation into a structured, searchable platform built with **Wiki.js**.
 
-These systems supported **Quality Assurance**, **Product Management**, **Business Analysis**, and **Engineering** teams by making information easy to discover, maintain, and share.
+These systems supported Quality Assurance, Product Management, Business Analysis, Engineering, and Operations teams by making critical information easy to discover, maintain, and share.
 
-The result was faster onboarding, improved collaboration, better documentation quality, and long-term knowledge retention across the organization.
+The result was faster onboarding, improved collaboration, standardized processes, higher documentation quality, and long-term knowledge retention across the organization.
+
 
 ---
 
@@ -24,11 +25,24 @@ The Knowledge Management System solved this problem by providing one central loc
 
 Instead of repeatedly asking the same questions, team members could quickly search the knowledge base and find standardized documentation.
 
-This approach encouraged self-service learning, improved consistency, and significantly reduced onboarding time.
+This approach promoted self-service learning, reduced dependency on tribal knowledge, improved process consistency, and significantly accelerated employee onboarding.
 
 ---
 
-# Knowledge Domains
+# Challenges Solved
+
+The Knowledge Management System addressed several common engineering challenges:
+
+- Documentation scattered across multiple locations
+- Inconsistent onboarding experiences
+- Knowledge loss when team members changed roles
+- Repeated support questions
+- Outdated documentation
+- Difficulty locating engineering information
+
+---
+
+# Knowledge Architecture
 
 The Knowledge Management System supported documentation across multiple areas.
 
@@ -102,6 +116,8 @@ Responsibilities included:
 - Maintaining documentation quality
 - Reviewing and updating documentation
 - Supporting internal users
+- Creating documentation templates
+- Maintaining documentation versioning
 
 ---
 
@@ -117,6 +133,8 @@ As the Knowledge Management System administrator, I managed:
 - Department-specific visibility
 - Documentation ownership
 - Secure access for authorized employees only
+- Audit and permission reviews
+- Access lifecycle management
 
 This ensured that only approved members of the organization could access internal engineering and product documentation.
 
@@ -124,11 +142,13 @@ This ensured that only approved members of the organization could access interna
 
 # Real-World Experience
 
+## Internal Knowledge Platforms
+
+Designed and maintained Wiki.js knowledge bases for multiple engineering teams supporting:
+
+### Oasis Management Company
+
 I have designed and managed internal Knowledge Management Systems across multiple organizations.
-
-## 🏢 Organization 1 
-
-**Example:** Oasis Management Company
 
 The Knowledge Management System supported:
 
@@ -140,9 +160,7 @@ The Knowledge Management System supported:
 
 ---
 
-## 🏢 Organization 2 
-
-**Example:** ByteWorks Technology Solutions
+### ByteWorks Technology Solutions
 
 The Knowledge Management System supported:
 
@@ -159,7 +177,7 @@ The Knowledge Management System supported:
 
 # Behind the Scenes
 
-The screenshot below shows one of the Knowledge Management initiatives I shared publicly on LinkedIn.
+The screenshot below shows one of the KnowledgeThe screenshot below highlights one of the Knowledge Management initiatives I shared publicly on LinkedIn, showcasing how structured onboarding can improve engineering consistency and knowledge sharing.
 
 Rather than relying on scattered documents or informal handovers, we built a structured onboarding system that helped new team members understand our tools, expectations, engineering processes, and organizational standards from day one.
 
@@ -177,43 +195,73 @@ This initiative improved consistency across the engineering team while making on
 
 Implementing the Knowledge Management System helped teams:
 
-- Reduce onboarding time
-- Improve documentation quality
-- Standardize engineering processes
-- Preserve institutional knowledge
-- Improve collaboration across departments
-- Reduce repeated support requests
-- Accelerate knowledge transfer
-- Improve engineering productivity
-- Create a single source of truth for organizational knowledge
+- Established a single source of truth for engineering knowledge
+- Reduced onboarding time
+- Standardized engineering processes
+- Improved documentation quality
+- Accelerated knowledge transfer
+- Reduced repeated support requests
+- Improved collaboration across departments
+- Preserved institutional knowledge
+- Increased engineering productivity
 
 ---
 
 # Technologies Used
 
+## Platform
+
 - Wiki.js
+- PostgreSQL
+
+## Documentation
+
 - Markdown
-- PostgreSQL 
-- Knowledge Management
-- Documentation Architecture
-- Role-Based Access Control (RBAC)
 - Technical Writing
-- Process Documentation
+
+## Administration
+
+- Documentation Architecture
+- Knowledge Management
+- Role-Based Access Control (RBAC)
 
 ---
 
 # Skills Demonstrated
 
-- Knowledge Management
+### Documentation
+
 - Technical Documentation
+- Documentation Architecture
+- Standard Operating Procedures
+
+### Leadership
+
 - QA Leadership
 - Team Onboarding
-- Process Improvement
-- Documentation Architecture
 - Engineering Collaboration
-- Standard Operating Procedures (SOPs)
+
+### Knowledge Management
+
+- Knowledge Management
 - Internal Knowledge Sharing
+- Process Improvement
 - Role-Based Access Control (RBAC)
+
+---
+
+# Information Architecture
+
+The knowledge base was organized around a structured hierarchy to ensure documentation remained easy to discover and maintain.
+
+Key design principles included:
+
+- Logical page hierarchy
+- Consistent navigation
+- Standardized page templates
+- Clear ownership
+- Searchability
+- Category-based organization
 
 ---
 
