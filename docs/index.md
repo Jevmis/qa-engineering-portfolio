@@ -59,6 +59,25 @@ Over the years, I've worked across enterprise applications, fintech, healthcare,
 
 ---
 
+# 🛠️ Technical Expertise
+
+| Area | Technologies / Expertise |
+|------|---------------------------|
+| **Test Automation** | Cypress, Playwright |
+| **Programming** | JavaScript, TypeScript, SQL |
+| **API Testing** | Postman, Swagger / OpenAPI |
+| **Performance Engineering** | Apache JMeter, Lighthouse |
+| **Security Testing** | OWASP ZAP, OWASP Top 10 |
+| **Databases** | SQL Server, PostgreSQL, MySQL |
+| **Knowledge Management** | Wiki.js, Markdown, Enterprise Knowledge Bases (KMS) |
+| **QA Documentation** | Test Plans, Test Cases, SOPs, BRDs, User Guides, UAT Documents, Release Notes |
+| **Reporting & Metrics** | Google Sheets Automation, QA Dashboards, Test Metrics |
+| **Project Management** | Jira, Agile, Scrum |
+| **DevOps** | GitHub Actions, Docker |
+| **Version Control** | Git, GitHub |
+
+---
+
 # ⭐ Engineering Portfolio
 
 > Explore real-world engineering solutions I've built across automation, API testing, reporting systems, documentation, performance engineering, security testing, and CI/CD.
@@ -150,25 +169,6 @@ Over the years, I've worked across enterprise applications, fintech, healthcare,
 
   
 </div>
-
----
-
-# 🛠️ Technical Expertise
-
-| Area | Technologies / Expertise |
-|------|---------------------------|
-| **Test Automation** | Cypress, Playwright |
-| **Programming** | JavaScript, TypeScript, SQL |
-| **API Testing** | Postman, Swagger / OpenAPI |
-| **Performance Engineering** | Apache JMeter, Lighthouse |
-| **Security Testing** | OWASP ZAP, OWASP Top 10 |
-| **Databases** | SQL Server, PostgreSQL, MySQL |
-| **Knowledge Management** | Wiki.js, Markdown, Enterprise Knowledge Bases (KMS) |
-| **QA Documentation** | Test Plans, Test Cases, SOPs, BRDs, User Guides, UAT Documents, Release Notes |
-| **Reporting & Metrics** | Google Sheets Automation, QA Dashboards, Test Metrics |
-| **Project Management** | Jira, Agile, Scrum |
-| **DevOps** | GitHub Actions, Docker |
-| **Version Control** | Git, GitHub |
 
 ---
 
