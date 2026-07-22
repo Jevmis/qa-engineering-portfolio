@@ -40,6 +40,25 @@ Over the years, I've worked across enterprise applications, fintech, healthcare,
 
 ---
 
+# Career Highlights
+
+!!! success "Professional Achievements"
+
+    - 5+ Years of Software Quality Assurance Experience
+    - QA Team Leadership & Mentoring
+    - Built reusable Cypress & Playwright Automation Frameworks
+    - Designed and Administered Enterprise Knowledge Management Systems (KMS)
+    - Authored Test Plans, SOPs, Onboarding Guides, Release Documentation & Engineering Standards
+    - Designed Automated QA Reporting Dashboards & Test Metrics
+    - Manual, API & SQL Testing
+    - Performance Engineering using Apache JMeter
+    - Security Testing using OWASP ZAP
+    - CI/CD Testing & Release Validation
+    - Agile & Scrum Delivery
+    - Certified Data Protection Officer (DPO)
+
+---
+
 # ⭐ Engineering Portfolio
 
 > Explore real-world engineering solutions I've built across automation, API testing, reporting systems, documentation, performance engineering, security testing, and CI/CD.
@@ -131,25 +150,6 @@ Over the years, I've worked across enterprise applications, fintech, healthcare,
 
   
 </div>
-
----
-
-# Career Highlights
-
-!!! success "Professional Achievements"
-
-    - 5+ Years of Software Quality Assurance Experience
-    - QA Team Leadership & Mentoring
-    - Built reusable Cypress & Playwright Automation Frameworks
-    - Designed and Administered Enterprise Knowledge Management Systems (KMS)
-    - Authored Test Plans, SOPs, Onboarding Guides, Release Documentation & Engineering Standards
-    - Designed Automated QA Reporting Dashboards & Test Metrics
-    - Manual, API & SQL Testing
-    - Performance Engineering using Apache JMeter
-    - Security Testing using OWASP ZAP
-    - CI/CD Testing & Release Validation
-    - Agile & Scrum Delivery
-    - Certified Data Protection Officer (DPO)
 
 ---
 
