@@ -124,4 +124,8 @@ mkdocs build
 
 ## 📄 License
 
-This repository is intended as a professional portfolio showcasing my work, engineering practices, and technical documentation. Unless otherwise stated, all content is © Michael J. Ndueso.
+This repository is provided for portfolio and evaluation purposes.
+
+Unless otherwise stated, all content—including documentation, engineering artifacts, images, videos, and written materials—is © Michael J. Ndueso. All rights reserved.
+
+Viewing and learning from this repository is encouraged. Reproduction, redistribution, or reuse of its content without permission is prohibited.
