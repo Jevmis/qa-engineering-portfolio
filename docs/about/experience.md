@@ -6,7 +6,7 @@
 
 # Overview
 
-Over the past **5+ years**, I've contributed to software quality across government, enterprise, fintech, and internal business platforms, helping teams deliver secure, scalable, and reliable applications.
+Over the past **7+ years** in technology, including **2+ years** leading QA, I've contributed to software quality across government, enterprise, fintech, and internal business platforms, helping teams deliver secure, scalable, and reliable applications.
 
 My experience spans the entire Software Development Lifecycle (SDLC), from requirement analysis and test planning to automation, API validation, performance testing, release readiness, and production verification.
 
