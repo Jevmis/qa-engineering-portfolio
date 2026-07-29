@@ -34,7 +34,7 @@
 
 # 👋 About Me
 
-I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer with over **5 years of experience** helping teams deliver reliable software.
+I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer with over **7 years of experience** in technology, including 2+ years leading QA and test automation for enterprise government and fintech platforms.
 
 Over the years, I've worked across enterprise applications, fintech, healthcare, and government solutions, designing automation frameworks, engineering documentation, reporting systems, and quality processes that help teams deliver reliable software with confidence.
 
