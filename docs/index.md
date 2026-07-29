@@ -44,7 +44,7 @@ Over the years, I've worked across enterprise applications, fintech, healthcare,
 
 !!! success "Professional Achievements"
 
-    - 5+ Years of Software Quality Assurance Experience
+    - 7+ Years in Technology, Including 2+ Years Leading QA and Test Automation.
     - QA Team Leadership & Mentoring
     - Built reusable Cypress & Playwright Automation Frameworks
     - Designed and Administered Enterprise Knowledge Management Systems (KMS)
