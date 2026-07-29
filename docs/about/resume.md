@@ -24,7 +24,7 @@
 
 ## Professional Summary
 
-I am a Quality Assurance Engineer with over five years of experience supporting software quality across government projects, registry platforms, and private-sector applications.
+I am a Quality Assurance Engineer with over with over 7 years of experience in technology, including 2+ years leading QA across government projects, registry platforms, and private-sector applications.
 
 My experience spans manual testing, test automation, API testing, SQL validation, performance engineering, QA documentation, release validation, and continuous process improvement.
 
@@ -34,8 +34,8 @@ I specialize in building scalable automation frameworks, improving QA processes,
 
 !!! success "Career Snapshot"
 
-    - **5+ Years** in Software Quality Assurance
-    - **QA Team Lead** with experience mentoring engineers and improving QA processes
+    - **7+ Years** in technology. 
+    - **QA Team Lead** with 2 years experience mentoring engineers and improving QA processes
     - **90+ Professional Certifications** across 10+ technical domains
     - Built reusable **Cypress** and **Playwright** automation frameworks
     - Designed automated **QA Reporting Dashboards**
